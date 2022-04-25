@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1449a56DE9AdA13716AfAe559b4CEADAe9cBF9AD",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x1449a56DE9AdA13716AfAe559b4CEADAe9cBF9AD",
+  "NETWORK": {
+    "NAME": "rinkeby",
+    "SYMBOL": "Eth",
+    "ID": 4
+  },
+  "NFT_NAME": "Test Mint 2",
+  "SYMBOL": "TM2",
+  "MAX_SUPPLY": 342,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/testmint-2",
+  "SHOW_BACKGROUND": true
+}
